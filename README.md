@@ -1,2 +1,2 @@
 # todo_app_pthon
-todoアプリの模写
+Pythonを用いてtodoアプリの作成
